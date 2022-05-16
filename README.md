@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikkicnotminaj
+- 👀 I’m interested in getting my google sheet to work
+- 🌱 I’m currently learning how to get my google sheet to work
+- 💞️ I’m looking to collaborate on my google sheet.
